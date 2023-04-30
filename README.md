@@ -11,8 +11,17 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 ## 📋 Minimum requirements to setup the project.
 
 * Unreal Engine 4.27 or better
-* A good PC to open the project
+* A good PC to open the project (you'll automatically compile the shaders when opening the project for the first time)
 * Visual Studio 2022 (optional, only install it if you'd like to build it for Windows)
+
+### 🔌 Plugins (optional)
+
+* [Dungeon Generator](https://www.unrealengine.com/marketplace/en-US/product/dungeon-generator-02)
+* [Flat Nodes*](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes)
+* [Substance](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin)
+* [Time Clock*](https://www.unrealengine.com/marketplace/en-US/product/time-clock)
+* Water [enable in engine]
+##### * not really necessary
 
 
 
@@ -42,7 +51,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 |More levels|🛠
 |Extend Map|✔
 |Saving System|📅
-|More Settings (Sensivity, Audio Volume)|📅
+|More Settings (Sensitivity, Audio Volume)|📅
 |Better Graphic Settings|📅
 
 
