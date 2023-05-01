@@ -16,6 +16,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 ### 🔌 Plugins (optional)
 
+* [Blueprint Graph Screenshot*](https://www.unrealengine.com/marketplace/en-US/product/blueprint-graph-screenshot)
 * [Dungeon Generator](https://www.unrealengine.com/marketplace/en-US/product/dungeon-generator-02)
 * [Flat Nodes*](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes)
 * [Substance](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin)
