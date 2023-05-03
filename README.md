@@ -22,6 +22,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 * [Time Clock*](https://www.unrealengine.com/marketplace/en-US/product/time-clock)
 * Water [enable in engine]
 ##### * not really necessary
+More plugins will be enabled when you start up the project, you'll get a prompt, click yes or no if you want to use them.
 
 
 
@@ -46,7 +47,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 |Ambience| ✔
 |Pause Menu|✔
 |Main Menu|✔
-|Entities|🛠
+|Entities|✔
 |Escaping from Level 0|✔
 |More levels|🛠
 |Extend Map|✔
