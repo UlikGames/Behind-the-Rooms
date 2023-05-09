@@ -1,4 +1,4 @@
-# GorGood Backrooms
+# Behind the Rooms
 What happens if you give a developer... Unreal Engine 5 and no experience? This, my first game ever made on UE5 with blueprints.
 
 I know other devs did way better than me but I wanted to try for the first time.
@@ -6,7 +6,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 **Hope you like it! ❣**
 
-### ❗ **_These steps are for modifying the game, if you want to download the game go [here](https://github.com/UlikGames/GorGood-Backrooms/releases)_** ❗
+### ❗ **_These steps are for modifying the game, if you want to download the game go [here](https://github.com/UlikGames/Behind-the-Rooms/releases)_** ❗
 
 ## 📋 Minimum requirements to setup the project.
 
