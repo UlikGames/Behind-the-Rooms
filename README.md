@@ -16,12 +16,8 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 ### 🔌 Plugins (optional)
 
-* [Dungeon Generator](https://www.unrealengine.com/marketplace/en-US/product/dungeon-generator-02)
-* [Flat Nodes*](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes)
-* [Substance](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin)
-* [Time Clock*](https://www.unrealengine.com/marketplace/en-US/product/time-clock)
-* Water [enable in engine]
-##### * not really necessary
+You can check the available & required plugins inside ![Behindtherooms.uproject](https://github.com/UlikGames/Behind-the-Rooms/blob/main/Behindtherooms.uproject) by opening it with an text editor (Notepad, Notepad++, Visual Studio Code, etc.)
+
 More plugins will be enabled when you start up the project, you'll get a prompt, click yes or no if you want to use them.
 
 
