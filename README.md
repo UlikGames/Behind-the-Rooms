@@ -10,7 +10,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 ## 📋 Minimum requirements to setup the project.
 
-* Unreal Engine 4.27 or better
+* Unreal Engine 4.27.2 or better
 * A good PC to open the project (you'll automatically compile the shaders when opening the project for the first time)
 * Visual Studio 2022 (optional, only install it if you'd like to build it for Windows)
 
@@ -18,7 +18,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 You can check the available & required plugins inside ![Behindtherooms.uproject](https://github.com/UlikGames/Behind-the-Rooms/blob/main/Behindtherooms.uproject) by opening it with an text editor (Notepad, Notepad++, Visual Studio Code, etc.)
 
-More plugins will be enabled when you start up the project, you'll get a prompt, click yes or no if you want to use them.
+More plugins will be required to be installed when you start up the project, you'll get a prompt, click yes or no if you want to use them, also open the project again if nothing pops up.
 
 
 
