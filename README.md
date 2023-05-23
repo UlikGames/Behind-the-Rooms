@@ -36,28 +36,4 @@ More plugins will be required to be installed when you start up the project, you
 * **Congrats! You can now edit the project and do any modifications you like.**
 
 # 📔 Features
-
-|Feature|Status|
-|---|---|
-|Basic Movement| ✔
-|Ambience| ✔
-|Pause Menu|✔
-|Main Menu|✔
-|Entities|✔
-|Escaping from Level 0|✔
-|More levels|🛠
-|Extend Map|✔
-|Saving System|📅
-|More Settings (Sensitivity, Audio Volume)|📅
-|Better Graphic Settings|📅
-
-
-✔ - Done
-
-🛠 - Working on it
-
-❌ - Not Working / Not Added
-
-📅 - Scheduled for future update
-
-❓ - I don't know how to implement (yet)
+There was a to-do list here, but I moved it [here](https://ulikgames.notion.site/ulikgames/Behind-the-Rooms-528117231bb54099890d81e021568020) on Notion.
