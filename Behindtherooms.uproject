@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "BehindtheRooms",
+			"Name": "Behindtherooms",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
@@ -56,14 +56,6 @@
 		},
 		{
 			"Name": "ColorCorrectRegions",
-			"Enabled": true
-		},
-		{
-			"Name": "ResonanceAudio",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundVisualizations",
 			"Enabled": true
 		},
 		{
@@ -195,15 +187,6 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "OnlineFramework",
 			"Enabled": true
 		},
@@ -223,10 +206,6 @@
 			]
 		},
 		{
-			"Name": "MovieRenderPipeline",
-			"Enabled": true
-		},
-		{
 			"Name": "CodeLiteSourceCodeAccess",
 			"Enabled": false
 		},
@@ -243,20 +222,8 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Ansel",
-			"Enabled": true
-		},
-		{
 			"Name": "ChunkDownloader",
 			"Enabled": false
-		},
-		{
-			"Name": "SunPosition",
-			"Enabled": true
-		},
-		{
-			"Name": "ImpostorBaker",
-			"Enabled": true
 		},
 		{
 			"Name": "MagicLeapMedia",
@@ -288,13 +255,6 @@
 		{
 			"Name": "NetworkPredictionInsights",
 			"Enabled": true
-		},
-		{
-			"Name": "WinDualShock",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		},
 		{
 			"Name": "EnhancedInput",
@@ -358,17 +318,145 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ShaderOptimizationTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/513a79316d754c5881f90cf8053e3a4e"
-		},
-		{
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
 		},
 		{
 			"Name": "AudioCapture",
 			"Enabled": false
+		},
+		{
+			"Name": "MotoSynth",
+			"Enabled": false
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": false
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "CryptoKeys",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "LauncherChunkInstaller",
+			"Enabled": false
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
+			"Name": "SlateInsights",
+			"Enabled": true
+		},
+		{
+			"Name": "TextureShare",
+			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "SOverlay",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cc7ed32bbc164220b5bda680b9843745"
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "AsyncLoadingScreen",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8"
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "AndroidPermission",
+			"Enabled": false
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "WebAuth",
+			"Enabled": true
+		},
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "WmfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "XCodeSourceCodeAccess",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Mac"
+			]
+		},
+		{
+			"Name": "Ansel",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
